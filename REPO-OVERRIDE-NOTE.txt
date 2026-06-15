@@ -1,0 +1,8 @@
+Repo-level identity override example:
+
+Inside a specific repository, run:
+
+  git config user.name "Different Name"
+  git config user.email "different@example.com"
+
+This overrides the folder-based include for that repository only.
